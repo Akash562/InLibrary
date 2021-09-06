@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mmsoft136/AndroidStudioProjects/InLibrary/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/mmsoft136/AndroidStudioProjects/InLibrary/rodieLibrary/src/main/res/drawable/button_error_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/mmsoft136/AndroidStudioProjects/InLibrary/rodieLibrary/src/main/res/layout/activity_single_button_alert.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mmsoft136/AndroidStudioProjects/InLibrary/rodieLibrary/src/main/res/layout/error_toast.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mmsoft136/AndroidStudioProjects/InLibrary/rodieLibrary/src/main/res/layout/success_toast.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mmsoft136/AndroidStudioProjects/InLibrary/rodieLibrary/src/main/res/layout/warning_toast.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
