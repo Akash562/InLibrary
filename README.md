@@ -44,7 +44,7 @@ allprojects {
 ## Add a Custom Toast
 
 ###### Pirate Toast Success  
-![logo](https://github.com/Akash562/CustomAlert/blob/master/app/ScreenShot/toast%20success.png)
+![logo](https://github.com/Akash562/inLibrary/blob/master/app/ScreenShot/toast%20success.png)
                  
 	 new Custom_Toast()
 	 .Toast_Success(
@@ -53,7 +53,7 @@ allprojects {
 	       16);                          // message size               
 	      
 ###### Pirate Toast Error      
-![logo](https://github.com/Akash562/CustomAlert/blob/master/app/ScreenShot/toast%20error.png)
+![logo](https://github.com/Akash562/inLibrary/blob/master/app/ScreenShot/toast%20error.png)
 
 	 new Custom_Toast()
 	 .Toast_Error(
@@ -63,7 +63,7 @@ allprojects {
 	       
 	       
 ###### Pirate Toast Warning	       
-![logo](https://github.com/Akash562/CustomAlert/blob/master/app/ScreenShot/toast%20warning.png)
+![logo](https://github.com/Akash562/inLibrary/blob/master/app/ScreenShot/toast%20warning.png)
 
 	 new Custom_Toast()
 	 .Toast_Warning(
