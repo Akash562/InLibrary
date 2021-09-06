@@ -24,7 +24,7 @@ allprojects {
   
   ## Add a Custom Alert 
   
-  ![logo](https://github.com/Akash562/CustomAlert/blob/master/app/ScreenShot/alert.png)
+  ![logo](https://github.com/Akash562/inLibrary/blob/master/app/ScreenShot/alert.png)
   
 	Single_Alert PSA = new Single_Alert();
                 PSA.Single_Alert(MainActivity.this);
