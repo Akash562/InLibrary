@@ -1,8 +1,8 @@
-# InLibrary For Android Application
+# InLibrary For Android Application      [![](https://jitpack.io/v/Akash562/InLibrary.svg)](https://jitpack.io/#Akash562/InLibrary)
 
 
 
-# CustomAlert
+# CustomAlert  
 
 ## Library For Android Alert Dilaog   
 
@@ -18,7 +18,7 @@ allprojects {
   
   
     dependencies {
-	        
+	        implementation 'com.github.Akash562:InLibrary:Tag'
 	} 
   
   
